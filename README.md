@@ -11,6 +11,12 @@ This work represents another way of using the detection and subsequent analysis 
 <b>The dataset used in this work can be found at:</b></br>
 https://drive.google.com/drive/folders/1pCiBqvItr4K8-zJZ3WTG0lvnNh--s22S?usp=sharing
 
+<b>To start training neural network model YOLOv4 with framework darknet:</b></br>
+<code>sudo path/to/darknet detector train "coco.data" "yolov4-obj.cfg" "yolov4.conv.137" -dont_show -mjpeg_port 8090 -map</code>
+
+<b>To start testing inference of learned neural network model YOLOv4:</b></br>
+<code>python3 opencv_yolov4_inference_test.py --video=./video/cars.mp4</code>
+
 <b>Model training results:</b>
 <p float="center">
   <img src="https://drive.google.com/uc?id=1dp1jt9ALL_nuU_jnZwyNFSQzIr7gsMcd" width="450" />
