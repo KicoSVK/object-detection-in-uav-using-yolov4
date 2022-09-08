@@ -8,10 +8,14 @@ This work represents another way of using the detection and subsequent analysis 
   <img src="https://drive.google.com/uc?id=1f4B0i1wBc1Jk9wVEzQsfuSR-7piq0iwv" width="200" />
 </p>
 
-<b>The dataset used in this work can be found at:</b>
+<b>The dataset used in this work can be found at:</b></br>
 https://drive.google.com/drive/folders/1pCiBqvItr4K8-zJZ3WTG0lvnNh--s22S?usp=sharing
 
 <b>Model training results:</b>
 <p float="center">
-  <img src="https://drive.google.com/uc?id=1dp1jt9ALL_nuU_jnZwyNFSQzIr7gsMcd" width="500" />
+  <img src="https://drive.google.com/uc?id=1dp1jt9ALL_nuU_jnZwyNFSQzIr7gsMcd" width="450" />
+</p>
+
+<p float="center">
+  <img src="https://drive.google.com/uc?id=1rSnwwOM7-kvNuHolyzvFvrJOlRvSQqER" width="650" />
 </p>
