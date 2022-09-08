@@ -8,7 +8,7 @@ This work represents another way of using the detection and subsequent analysis 
   <img src="https://drive.google.com/uc?id=1f4B0i1wBc1Jk9wVEzQsfuSR-7piq0iwv" width="200" />
 </p>
 
-<b>The dataset, scripts and others used in this work can be found at:</b></br>
+<b>The dataset, scripts and other files used in this work can be found at:</b></br>
 https://drive.google.com/drive/folders/1pCiBqvItr4K8-zJZ3WTG0lvnNh--s22S?usp=sharing
 
 <b>To start training neural network model YOLOv4 with framework darknet:</b></br>
